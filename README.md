@@ -1,3 +1,3 @@
-# Lens Protocol - The ULTIMATE Guide 🌿
+# Lens Protocol 
 
-Source code for the [Ultimate Guide to Lens Protocol video](https://youtu.be/e1mPmDRUUBc).
+
